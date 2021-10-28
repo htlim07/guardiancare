@@ -1,0 +1,121 @@
+.hidden {
+    display: none;
+}
+body {
+    background-color: #4baeff;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+p {
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+#btn {
+    text-align: center;
+}
+#shareBtn {
+    color: white;
+    background-color: #004fff;
+    box-shadow: 0 4px 16px rgba(0, 79, 255, 0.3);
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#missionBtn {
+    color: white;
+    background-color: #004fff;
+    box-shadow: 0 4px 16px rgba(0, 79, 255, 0.3);
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#newsBtn {
+    color: white;
+    background-color: #004fff;
+    box-shadow: 0 4px 16px rgba(0, 79, 255, 0.3);
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#homeBtn {
+    color: white;
+    background-color: #004fff;
+    box-shadow: 0 4px 16px rgba(0, 79, 255, 0.3);
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+span {
+    font-weight: 1000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#header {
+    color: white;
+    font-size: 30px;
+    font-weight: 1000px;
+}
+#inside {
+    color:white;
+    font-size: 20px;
+}
+#mission {
+    text-align: center;
+}
+#news {
+    text-align: center;
+}
+.refresh {
+    color: white;
+    background-color: #004fff;
+    box-shadow: 0 4px 16px rgba(0, 79, 255, 0.3);
+    font-size: 12px;
+    font-weight: bold;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+ul{
+    list-style:none;
+    margin-left: 0;
+}
+button:focus{
+    outline: 0;
+}
+button:hover{
+    background-color: rgba(0, 79, 255, 0.9);
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 79, 255, 0.6);
+}
+input:focus{
+    outline: 0;
+}
+input:hover{
+    background-color: rgba(0, 79, 255, 0.9);
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 79, 255, 0.6);
+}
